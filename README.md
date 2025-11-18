@@ -1,5 +1,4 @@
 # Global Solution - Kotlin
-Github: github.com/guiengel
 
 ## Equipe
 RM 87438 - Guilherme Luis Engel
@@ -40,6 +39,7 @@ Tela IMC
 Tela fazendo o cálculo do IMC
 
 ![telaMenu](./img/imagem7.png)
+
 
 
 
